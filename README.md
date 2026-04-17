@@ -1,4 +1,4 @@
-# Jackrong/Qwen3.5-9B-GLM5.1-Distill-v1-GGUF - Private, Uncensored AI for Real Creators and Devs
+# Jackrong/Qwen3.5-9B-GLM5.1-Distill-v1-GGUF  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
